@@ -1,5 +1,7 @@
 # F-Droid Data
 
+![QR code](fdroid-gdr-name-qr.png)
+
 [![build status](https://gitlab.com/fdroid/fdroiddata/badges/master/build.svg)](https://gitlab.com/fdroid/fdroiddata/builds)
 
 This repository holds general and build information for all the apps on our
